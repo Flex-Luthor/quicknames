@@ -1,0 +1,17 @@
+{
+  "name": "quicknames",
+  "version": "1.0.0",
+  "description": "an app that takes the user's name and assigns them a new nickname",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Garland Riley, Jr.",
+  "license": "ISC",
+  "devDependencies": {
+    "c3": "^0.4.11",
+    "d3": "^4.2.2",
+    "express": "^4.14.0",
+    "react": "^15.3.1"
+  }
+}
