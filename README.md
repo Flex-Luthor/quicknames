@@ -14,9 +14,9 @@ Single-page web application that generates nicknames for users
 optional: Tweet out your new name by connecting your Twitter account 😉
 
 ## Requirements
--Angular
--Express
--Twitter API
+  -Angular
+  -Express
+  -Twitter API
 
 ### Installing Dependencies
 Within root directory:
