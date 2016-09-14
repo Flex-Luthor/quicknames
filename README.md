@@ -5,7 +5,7 @@ Single-page web application that generates nicknames for users
 1. [Requirements](#requirements)
 1. [Development](#development)
     1. [Installing Dependencies](#installing-dependencies)
-    1. [Tasks](#tasks)
+    1. [Contributing](#Contributing)
 
 ## Usage
 1. Enter Your Name
